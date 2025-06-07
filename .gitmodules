@@ -1,0 +1,6 @@
+[submodule "pointter/pointilistictextures/external/json"]
+	path = pointter/pointilistictextures/external/json
+	url = https://github.com/nlohmann/json.git
+[submodule "pointter/pointilistictextures/external/skia"]
+	path = pointter/pointilistictextures/external/skia
+	url = https://github.com/google/skia.git
